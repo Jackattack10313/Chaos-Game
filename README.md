@@ -1,5 +1,5 @@
 # Chaos Game
-Super quick and dirty python script that performs the chaos game. I originally read about concept from *Chaos: Making a New Science* by James Gleick. I finally got around to implementing it. I used https://en.wikipedia.org/wiki/Chaos_game to help me in developing my algorithm. Points are plotted on a matplot graph. I recommend not going above 100000 points so it does not lag out.
+Super quick and dirty python script that I whipped up in ~30 min that performs the chaos game. I originally read about concept from *Chaos: Making a New Science* by James Gleick. I finally got around to implementing it. I used https://en.wikipedia.org/wiki/Chaos_game to help me in developing my algorithm. Points are plotted on a matplot graph. I recommend not going above 100000 points so it does not lag out.
 
 **Dependencies:**
 - matplotlib
